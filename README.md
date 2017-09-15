@@ -1,6 +1,8 @@
-<b>Basic Topics</b>  
-How to Create Module in Magento 2<br/>
-Create Controllers<br/>
-CRUD Models<br/>
-View: Block, Layouts and templates<br/>
-Configuration - System.xml<br/>
+<h4><b>Basic Topics</b></h4>
+<ul>
+<li>How to Create Module in Magento 2</li><br/>
+<li>Create Controllers</li><br/>
+<li>CRUD Models</li><br/>
+<li>View: Block, Layouts and templates</li><br/>
+<li>Configuration - System.xml</li>
+</ul>
