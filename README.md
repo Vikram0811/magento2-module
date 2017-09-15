@@ -12,4 +12,4 @@
 <li>Two each of Blocks, Views, and Layout files: One of each for the list action, and one of each for the view</li>
 </ul>
 
-<h5>P.S. The module will reside under <b>app/code</b> directory of Magento 2 installation.</h5>
+<h5>P.S. The module will reside under app/code directory of Magento 2 installation.</h5>
